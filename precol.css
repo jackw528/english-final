@@ -1,0 +1,16 @@
+#adam{
+  height: 250px;
+  width: 450px;
+}
+#map{
+  width: 450px;
+}
+h2{
+  text-align: center;
+}
+a{
+  color: black;
+}
+a:hover{
+  color: blue;
+}
